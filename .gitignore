@@ -1,0 +1,13 @@
+.env
+.env*
+*.env
+
+node_modules/
+
+.csv*
+.csv
+*.csv
+
+.sql
+.sql*
+*.sql
